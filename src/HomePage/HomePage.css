@@ -1,0 +1,54 @@
+.homepage-dom{
+    width: 100%;
+    background-color: #f5f5f5;
+}
+.homepage{
+    width: 73%;
+    margin: auto;
+    /* border: 1px solid red; */
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    /* margin-top: 200px; */
+}
+
+.left-section-homepage{
+    /* width: 100%; */
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    padding: 10px;
+}
+
+.left-section-homepage > div{
+    margin-bottom: 10px;
+}
+
+.left-section-homepage h2{
+    font-weight: bold;
+    /* font-family: sans-serif; */
+}
+
+.left-section-homepage h3{
+    color: gray;
+}
+
+.middle-section-homepage{
+    /* width: 45%; */
+    background-color: white;
+    padding: 15px;
+}
+
+.middle-section-homepage-box{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    padding: 10px;
+    margin-bottom: 20px;
+    /* border: 1px solid red; */
+}
+
+.middle-section-homepage-box h1{
+    font-weight: bold;
+}
+
+.middle-section-homepage-box h3{
+    color: gray;
+}

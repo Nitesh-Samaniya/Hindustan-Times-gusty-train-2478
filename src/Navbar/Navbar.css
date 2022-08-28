@@ -1,0 +1,26 @@
+.navbar{
+    background-color: #011e29;
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    color: white;
+    /* position: fixed; */
+    
+}
+.container{
+    width: 73%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    margin: auto;
+    /* border: 1px solid red; */
+}
+/* .container > div{
+    border: 1px solid green;
+    
+} */
+.container img{
+    width: 370px;
+    height: 70px;
+}
